@@ -1,0 +1,7 @@
+*.pyc
+*/save_model
+*/runs
+PyMesh/
+GINR/data_generation/bunny/
+GINR/wandb/
+GINR/lightning_logs/wandb/
