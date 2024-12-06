@@ -1,6 +1,0 @@
-*.h5*
-.DS_Store
-/lightning_logs
-*.pyc
-*.0
-*.hdf5
