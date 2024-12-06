@@ -5,3 +5,4 @@ PyMesh/
 GINR/data_generation/bunny/
 GINR/wandb/
 GINR/lightning_logs/wandb/
+*.nc
