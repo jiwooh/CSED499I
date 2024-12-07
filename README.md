@@ -11,9 +11,11 @@
 
 ### graphcast
 * use modified graphcast_demo.ipynb
-* download .nc datasets
+* download .nc datasets to ./ directory
 
 ### GINR
+* [optional] open ./npy_processor.ipynb to make dataset files (.npy/.npz) and place them appropriately, refer to ./GINR/README.md
+* install dependencies
 * run with commands on run.sh
 
 ## Based Researches
