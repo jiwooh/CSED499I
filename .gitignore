@@ -2,8 +2,8 @@
 */save_model
 */runs
 PyMesh/
-GINR/data_generation/bunny/
+GINR/data_generation/
 GINR/wandb/
 GINR/lightning_logs/wandb/
-*.nc
+*.nc # ignore raw dataset
 .DS_Store
